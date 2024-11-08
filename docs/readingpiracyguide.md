@@ -100,7 +100,6 @@
 * [English E-Reader](https://english-e-reader.net/) - Books
 * [E-Books Directory](https://www.e-booksdirectory.com/) - Books
 * [Free-eBooks](https://www.free-ebooks.net/best-books) - Books
-* [Ebooks3000](https://ebook3000.com/) - Books
 * [eBookHunter.net](https://www.ebookhunter.net/) - Books
 * [obooko](https://www.obooko.com/) - Books
 * [Avalon Library](https://avalonlibrary.net/) - Books
@@ -118,7 +117,7 @@
 * [The Free Book Library](https://ebooks.i2p/) - Books / I2P Required
 * [Find Books](https://www.findbooks.info/) - Books / IPFS Required
 * [Antilibrary](http://127.0.0.1:43110/Antilibrary.bit/) - ZeroNet Required
-* [IBHaven](https://ibhaven.st/) - Books / Tor + P2P Client Required / [Guide](https://guide.ibhaven.st/)
+* [IBHaven](https://ibhaven.st/) - Books / Tor + P2P Client Required
 * [/r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS)
 
 ***
@@ -130,7 +129,6 @@
 * [Page by Page Books](https://www.pagebypagebooks.com/)
 * [Standard EBooks](https://standardebooks.org/)
 * [Manybooks](https://manybooks.net/)
-* [Luminarium](https://www.luminarium.org/)
 * [JustFreeBooks](https://www.justfreebooks.info/)
 * [Classic Literature](https://classic-literature.co.uk/)
 * [Global Grey](https://www.globalgreyebooks.com/index.html)
@@ -199,6 +197,7 @@
 * [Vestal Review](https://www.vestalreview.net/) - Short Stories
 * [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
 * [Vocal Media](https://vocal.media/fiction/) - Short Stories
+* [Poop Fiction](https://readpoopfiction.com/) - Random Short Stories
 * [AlternateHistory](https://www.alternatehistory.com/forum/) - Historical "What if?" Fiction
 * [Liminal Archives](http://liminal-archives.wikidot.com/) / [Discord](https://discord.gg/fxhwcsyKN2), [The Backrooms Wiki](http://backrooms-wiki.wikidot.com/) or [The Voidclusters](http://voidclusters.wikidot.com/) - Liminal Space Stories
 * [Potions and Snitches](https://www.potionsandsnitches.org/) - Harry Potter Fanfiction
@@ -229,6 +228,7 @@
 * [Gnostic Society Library](http://www.gnosis.org/library.html) - Gnosticism
 * [Logoi Library](https://logoilibrary.com/) - Gnosticism / Hermeticism
 * [The Library of Consciousness](https://www.organism.earth/library/) - Esoterica
+* [Humanitys Vault](https://rentry.co/FMHYBase64#humanitys-vault) - Esoterica
 * [Esoteric Archive](http://esotericarchives.com/) - Esoterica
 * [Esoterica Drive](https://rentry.co/FMHYBase64#archive) - Esoterica
 * [Masonic Library](https://masonicshop.com/masonic-library/) - Esoterica / Freemasonry
@@ -331,7 +331,6 @@
 * [NewComic](https://www.newcomic.info/) - Downloads
 * [4chan /co/](https://boards.4channel.org/co/catalog#s=official%20win) - Weekly Downloads
 * [Read Full Comic](https://readfullcomic.com/) / [2](https://viewcomiconline.com/)
-* [British Comics](https://britishcomics.wordpress.com/) - Classic British Comics
 * [OldComicsWorld](https://oldcomicsworld.blogspot.com/) - Golden Age Comic Downloads
 * [DigitalComicMuseum](https://digitalcomicmuseum.com/) - Golden Age Comic Downloads
 * [ComicsForAll](https://comicsforall269084760.wordpress.com/) - Golden Age Comic Downloads
@@ -347,6 +346,7 @@
 * [Cover](https://frenchfrysoftware.com/cover/), [MComix](https://sourceforge.net/projects/mcomix/), [CBR Reader](https://www.cdisplayex.com/), [Stump](https://www.stumpapp.dev/), [comic-book-reader](https://github.com/binarynonsense/comic-book-reader), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - Readers / Managers
 * [Free Dark Horse Digital Comics](https://digital.darkhorse.com/pages/free)
 * [ComicFury](https://comicfury.com/) - User-Made Comics
+* [Comic Translate](https://github.com/ogkalu2/comic-translate) - Comic Translator
 * [Webcomix](https://github.com/J-CPelletier/webcomix) - Webcomics Downloader
 * [ComicReader](https://comicreader.netlify.app/) or [KThoom](https://github.com/codedread/kthoom) - Online Reader
 * [Komga](https://komga.org/) - Comic / Manga Media Server / [Discord](https://discord.gg/TdRpkDu) / [GitHub](https://github.com/gotson/komga)
@@ -445,7 +445,6 @@
 * [NobleMTL](https://noblemtl.com/)
 * [NovelLMAO](https://novelmao.com/)
 * [ReadNovelFull](https://readnovelfull.com)
-* [Panda Novel](https://www.panda-novel.com/)
 * [FreeWebNovel](https://freewebnovel.com/)
 * [Translated Light Novels](https://rentry.co/FMHYBase64#translated-light-novels)
 * [NovelNext](https://novelnext.com/)
@@ -683,6 +682,7 @@
 * ⭐ **Sci-Hub Tools** - [Official TG Bot](https://t.me/scihubot), [2](https://t.me/freescience) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button), [2](https://github.com/gchenfc/sci-hub-now) / [PDF Download](https://gagarine.medium.com/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Dumps](https://redd.it/edwi9b) / [DOI Redirect](https://greasyfork.org/en/scripts/412498)
 * ⭐ **[Google Scholar](https://scholar.google.com/)** - Academic Papers Search Engine
 * ⭐ **[Scinapse](https://scinapse.io/)** - Academic Papers Search Engine
+* ⭐ **[Citrus Search](https://citrus-search.com/)** - Find Similar Research Papers
 * ⭐ **[ResearchGate](https://www.researchgate.net/)** - Research Papers / Publications
 * ⭐ **[SciLit](https://www.scilit.net/)** - Research Papers / Publications
 * ⭐ **[Mendeley](https://www.mendeley.com/)** - Research Papers / [Data](https://data.mendeley.com/) / [Reference Manager](https://www.mendeley.com/download-reference-manager/)
@@ -818,34 +818,34 @@
 
 # ► Tracking / Discovery
 
-* ⭐ **[GoodReads](https://www.goodreads.com/)** / [Frontend](https://github.com/nesaku/BiblioReads) - Books / Comics / Manga / [Ratings Filter](https://www.book-filter.com/)
-* ⭐ **[TasteDive](https://tastedive.com/)** - Books
-* ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Books
-* ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** - Book Recommendations
+* ⭐ **[GoodReads](https://www.goodreads.com/)** / [Frontend](https://github.com/nesaku/BiblioReads) - Tracking / Reviews / Recommendations / [Ratings Filter](https://www.book-filter.com/)
+* ⭐ **[TasteDive](https://tastedive.com/)** - Discovery and Recommendations 
+* ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Tracking / Recommendations 
+* ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** - Curated Books List / [Downloader](https://greasyfork.org/en/scripts/514877)
 * ⭐ **[MyAnimeList](https://myanimelist.net/)** - Manga / Light Novels / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
 * ⭐ **[Anilist](https://anilist.co/home)** - Manga / Light Novels / Manhwa / Manhua / [Wrapper](https://github.com/butterstroke/Anilist-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
-* ⭐ **[MangaUpdates](https://www.mangaupdates.com/)** - Manga (Has Obscure Stuff)
-* ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comics
+* ⭐ **[MangaUpdates](https://www.mangaupdates.com/)** - Manga Database / Releases Updates
+* ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comic Tracking / Releases
 * [Rec Charts](https://pastebin.com/ayuqSpGR) - Books / Comics / Manga Recommendation Guides
-* [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Book / Comic Recommendations
-* [BookHype](https://bookhype.com/) - Books
-* [Oku](https://oku.club/) - Books
-* [Literal](https://literal.club/) - Books
-* [BookWyrm](https://bookwyrm.social/) - Books
-* [LibraryThings](https://www.librarything.com/) - Books
-* [CandlApp](https://www.candlapp.com/) - Books
-* [Anobii](https://www.anobii.com/) - Books
-* [Reddit Reads](https://www.redditreads.com/) - Book Recommendations
-* [Gnooks](https://www.gnooks.com/) - Book Recommendations
-* [RecommendMeABook](https://recommendmeabook.com/) - Book Recommendations
-* [WhichBook](https://www.whichbook.net/) - Book Recommendations
-* [Five Books](https://fivebooks.com/) - Book Recommendations
+* [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Personalized Recommendation Subreddit 
+* [BookHype](https://bookhype.com/) - Book Discovery / Recommendations / [Downloader](https://greasyfork.org/en/scripts/514877)
+* [Five Books](https://fivebooks.com/) - Curated Book List
+* [Oku](https://oku.club/) - Book Tracking Platform
+* [Literal](https://literal.club/) - Social Book Tracking Platform
+* [BookWyrm](https://bookwyrm.social/) - Book Tracking Platform
+* [LibraryThings](https://www.librarything.com/) - Book Cataloguing Community
+* [CandlApp](https://www.candlapp.com/) - Book Tracking / Recommendations
+* [Anobii](https://www.anobii.com/) - Book Cataloguing / Reviews
+* [Reddit Reads](https://www.redditreads.com/) - Most Popular Books from Subreddits
+* [Gnooks](https://www.gnooks.com/) - Book Discovery / Recommendations
+* [RecommendMeABook](https://recommendmeabook.com/) - First Page Book Teasers
+* [WhichBook](https://www.whichbook.net/) - Mood-Based Book Discovery
 * [Readow](https://readow.ai/) - Book Recommendations
 * [Shepherd](https://shepherd.com/) - Book Recommendations
-* [Newvella](https://newvella.com/) - Book Recommendations
-* [GoodBooks](https://www.goodbooks.io/) - Book Recommendations
-* [Literature-Map](https://www.literature-map.com/) - Book Recommendations
-* [Break the Bubble!](https://abooklike.foo/escape) - Book Recommendations
+* [Newvella](https://newvella.com/) - Book Discovery / Recommendations
+* [GoodBooks](https://www.goodbooks.io/) - Book Discovery / Reviews
+* [Literature-Map](https://www.literature-map.com/) - Author Discovery by Genre
+* [Break the Bubble!](https://abooklike.foo/escape) - Challenge Narrow Tastes
 * [Most Recommended Books](https://www.mostrecommendedbooks.com/) - Book Recommendations
 * [Read This Twice](https://readthistwice.com/) - Book Recommendations
 * [Hacker Recommended Books](https://hacker-recommended-books.vercel.app/) - Book Recommendations
@@ -872,7 +872,7 @@
 * [kenmei](https://www.kenmei.co/) - Manga
 * [AllManga](https://allmanga.to/) - Manga / [Discord](https://discord.gg/YbuYYUwhpP)
 * [Manga Codex](https://mangacodex.com/) - Manga Infographics & Sales Stats
-* [vndb](https://vndb.org/) - Visual Novels / [Stats](https://vnstat.net/)
+* [vndb](https://vndb.org/) - Visual Novels
 * [/r/VisualNovel Recs](https://sites.google.com/view/rvisualnovels-recs/) or [VN Recs](https://vnrecs.github.io/) - Visual Novel Recommendations
 * [rate.house](https://rate.house/) - Media Tracker
 * [libib](https://www.libib.com/) - Desktop Media Catalog
